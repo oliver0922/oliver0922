@@ -1,5 +1,5 @@
 - 👋 Hi, I’m In-Jae Lee
-- 👀 I’m interested in DeepLearning 
+- 👀 I’m interested in DeepLearning and Computervision (especially Self-Supervised learning for object detection)
 - 🌱 I’m currently learning GAN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email injae1994@gmail.com
