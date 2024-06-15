@@ -1,5 +1,5 @@
 - 👋 Hi, I’m In-Jae Lee
-- 👀 I’m interested in DeepLearning and Computervision (especially Camera-Radar Fusion 3D Object Detection)
+- 👀 I’m interested in DeepLearning and 3D Computervision 
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email oliver0922@kaist.ac.kr
